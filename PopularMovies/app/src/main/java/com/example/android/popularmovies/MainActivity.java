@@ -31,8 +31,8 @@ import static android.view.View.GONE;
 
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<List<Movie>>{
-    public static final String MOVIES_URL_LINK = "https://api.themoviedb.org/3/movie/popular?api_key=403aab985eeaff498624b420c392e97c";
-    public static final String MOVIES_TOP_RATED = "https://api.themoviedb.org/3/movie/top_rated?api_key=403aab985eeaff498624b420c392e97c";
+    public static final String MOVIES_URL_LINK = "https://api.themoviedb.org/3/movie/popular?api_key=";
+    public static final String MOVIES_TOP_RATED = "https://api.themoviedb.org/3/movie/top_rated?api_key=";
     public static String MOVIES_URL_LINK_FINAL = MOVIES_URL_LINK;
     private static final int  MOVIE_ID = 1;
     public MovieAdapter movieAdapter;
