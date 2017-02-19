@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="cancel">Cancel</string>
+    <string name="sort_movies">Sort Movies</string>
+    <string name="movieDetails">Movie Details</string>
+    <string name="octoberMonth">October</string>
+    <string name="contextString">Context</string>
+</resources>
